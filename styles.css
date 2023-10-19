@@ -264,7 +264,7 @@ animation: animate-wave 500ms infinite ease-in-out;
 }
 .language__list{
     display: flex;
-justify-content: space-around;
+justify-content: center;
 }
 
 .language:hover .language__img{
